@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fondmist/infigloss": "^0.1.0",
+    "dotenv": "^16.4.7"
+  }
+}
